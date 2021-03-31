@@ -34,6 +34,7 @@ My attempt for the Google Foobar challenge, written in Java.
 ### Level 5
 
 * Disorderly Escape
+* Expanding Nebula (Extra Challenge)
 
 ## Developer
  
